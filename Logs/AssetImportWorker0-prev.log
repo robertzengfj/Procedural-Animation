@@ -1,0 +1,273 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.48f1c1 (06fbdfbf16e3) revision 457695'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'zh' Physical Memory: 49035 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\unity_editor\2020.3.48f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/untity project/Procedural-Animation
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53455
+Successfully changed project path to: E:/untity project/Procedural-Animation
+E:/untity project/Procedural-Animation
+Using Asset Import Pipeline V2.
+Player connection [25168] Host "[IP] 10.203.38.48 [Port] 3221442336 [Flags] 2 [Guid] 577584163 [EditorId] 577584163 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6826A6U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [25168] Host "[IP] 10.203.38.48 [Port] 3221442336 [Flags] 2 [Guid] 577584163 [EditorId] 577584163 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-6826A6U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 33.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.48f1c1 (06fbdfbf16e3)
+[Subsystems] Discovering subsystems at path E:/unity_editor/2020.3.48f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/untity project/Procedural-Animation/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   
+    VRAM:     24517 MB
+    Driver:   31.0.101.2111
+Initialize mono
+Mono path[0] = 'E:/unity_editor/2020.3.48f1c1/Editor/Data/Managed'
+Mono path[1] = 'E:/unity_editor/2020.3.48f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/unity_editor/2020.3.48f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity_editor/2020.3.48f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001526 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.716 seconds
+Domain Reload Profiling:
+	ReloadAssembly (716ms)
+		BeginReloadAssembly (64ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (574ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (227ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (186ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (22ms)
+				ProcessInitializeOnLoadAttributes (90ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002466 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.927 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1928ms)
+		BeginReloadAssembly (173ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (1690ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (337ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (1114ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (83ms)
+				ProcessInitializeOnLoadAttributes (1010ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1700 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.0 MB.
+System memory in use after: 82.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2136.
+Total: 3.138100 ms (FindLiveObjects: 0.149200 ms CreateObjectMapping: 0.054600 ms MarkObjects: 2.810000 ms  DeleteObjects: 0.123500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f449bd9ed4a92e06d659da724da745') in 0.118939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.918095 seconds.
+  path: Assets/Fabs
+  artifactKey: Guid(4d2be3e864d6f834ea6da2124c7c443d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fabs using Guid(4d2be3e864d6f834ea6da2124c7c443d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95dbac1287ff3bb0ea68c470d4193d9') in 0.002366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 53.007359 seconds.
+  path: Assets/Plugins/Banana Yellow Games
+  artifactKey: Guid(b3e6e445ff0800b438a1676bc389edee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games using Guid(b3e6e445ff0800b438a1676bc389edee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82889d50821ac64f00df573468f3b6e1') in 0.002898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.773160 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters
+  artifactKey: Guid(81a68b46cc3e00f4fb93b2c8b3d1323d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters using Guid(81a68b46cc3e00f4fb93b2c8b3d1323d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3fb7874da3f171090a806f31219ec12') in 0.003991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.731745 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man
+  artifactKey: Guid(fc0b9dcc7b02fdc4c8be4203cbf9c95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man using Guid(fc0b9dcc7b02fdc4c8be4203cbf9c95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1809deac50dcdce29d85afb3c4c91da4') in 0.002917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.078524 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx
+  artifactKey: Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx using Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '299840717e99a6d26ed8368a7ad57237') in 0.499287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.744608 seconds.
+  path: Assets/Fabs/Banana Man.prefab
+  artifactKey: Guid(990b0003cc0e35e4599fa19fadb45c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fabs/Banana Man.prefab using Guid(990b0003cc0e35e4599fa19fadb45c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b61b0957acb3f4e9431926652e820e') in 0.024811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 162.149317 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx
+  artifactKey: Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx using Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b818837fc970156a14a0858b99a092f4') in 0.063886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Body.mat
+  artifactKey: Guid(710d7b7d3497bb64ca6a52b9bdcdc7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Body.mat using Guid(710d7b7d3497bb64ca6a52b9bdcdc7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281fa954375407cdaef7d0b0550bf3a2') in 0.025479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Joints.mat
+  artifactKey: Guid(3c6b62ba67b93d24ea805230ee615973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Joints.mat using Guid(3c6b62ba67b93d24ea805230ee615973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950a01e88f0ca3eddfd687280eb0e83b') in 0.021984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.411123 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials
+  artifactKey: Guid(7b6ed9a50dc67ff46b393cbc8be80a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials using Guid(7b6ed9a50dc67ff46b393cbc8be80a49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a64750e02c99a059a86090007a346e') in 0.003599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.040704 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Body.mat
+  artifactKey: Guid(945e2f586a1a63a49a99d9080a8e9f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Body.mat using Guid(945e2f586a1a63a49a99d9080a8e9f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b509c89cf5046a45f3877d559da8ea') in 0.015483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Joints.mat
+  artifactKey: Guid(172e6d5757c566945aace63133e6ab54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Joints.mat using Guid(172e6d5757c566945aace63133e6ab54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd21a3a3215b0163991d3478997e5ad1') in 0.022120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.623510 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx
+  artifactKey: Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx using Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8c202d2a642ff465cc7c53eda18316') in 0.062992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.780639 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Main Texture.mat
+  artifactKey: Guid(500d8d3ad076efb438df4f6c8cd25203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Main Texture.mat using Guid(500d8d3ad076efb438df4f6c8cd25203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02de268e0b8c53778d3b530935488f45') in 0.010789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.850709 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Demo Scene/Gray Skybox.mat
+  artifactKey: Guid(3af0ba1359eab664798873d9a539a9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Demo Scene/Gray Skybox.mat using Guid(3af0ba1359eab664798873d9a539a9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720a93100bfb09f29262017725f5033c') in 0.048871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.740522 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Textures/Banana Man Albedo.png
+  artifactKey: Guid(ba30b5ad10906d145b2715c1a9446f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Textures/Banana Man Albedo.png using Guid(ba30b5ad10906d145b2715c1a9446f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d11bf91679e6a7d7ce205c5f05d82e') in 0.029392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.012838 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx
+  artifactKey: Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx using Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8194527b155fdbccf32bdf905f6b40') in 0.044872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 583.188818 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx
+  artifactKey: Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx using Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a3ac12e643e87d4e9157bd7220fbfd') in 0.065173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.896216 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Body 1.mat
+  artifactKey: Guid(9ad18b35cb6f49c4f8642729bd5ed0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Body 1.mat using Guid(9ad18b35cb6f49c4f8642729bd5ed0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a89191dfa270fac628c5c81afcaa0c4') in 0.010381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Joints 1.mat
+  artifactKey: Guid(79ebaf282643e874889acd2485c01d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Materials/Joints 1.mat using Guid(79ebaf282643e874889acd2485c01d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d93988d4a0a4ad187a3e44cd58528b') in 0.012397 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 229.735737 seconds.
+  path: Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx
+  artifactKey: Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Banana Yellow Games/Characters/Banana Man/Banana Man.fbx using Guid(81bb9eea30387e442899949a80011e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41536bb9f6d0b87843fc4ef09000dd39') in 0.094606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1562.201397 seconds.
+  path: Assets/Fabs/Banana Man.prefab
+  artifactKey: Guid(990b0003cc0e35e4599fa19fadb45c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fabs/Banana Man.prefab using Guid(990b0003cc0e35e4599fa19fadb45c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c45d4315af837b99ce93d4b66de0c1') in 0.031856 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
